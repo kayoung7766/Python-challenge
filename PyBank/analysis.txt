@@ -1,0 +1,5 @@
+Total months = 86
+Total P & L = 38382578
+Average Profit Loss = -2315.1176470588234
+Maximum Profit = 1926159 in 1926159
+Greatest Loss = 1926159 in Feb-17
